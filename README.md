@@ -1,4 +1,4 @@
-# Interview-RSB-scoring
+# Interview-some-bank-scoring
 
 File 1_0_data_overview.ipynb is the solution for the interview task.
 
